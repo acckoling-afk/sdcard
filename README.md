@@ -1,0 +1,2 @@
+# sdcard
+acc.sh
